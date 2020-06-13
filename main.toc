@@ -1,0 +1,18 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Ubicaci\IeC {\'o}n de la casa y descripci\IeC {\'o}n de los elementos cercanos.}{2}{section.1}
+\contentsline {section}{\numberline {2}Ubicaci\IeC {\'o}n de las antenas en el tejado y los puntos de anclaje.}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}M\IeC {\'a}stil}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Soportes}{6}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Anclajes}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Mordazas}{6}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Antena discono Diamond D3000}{6}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Antena Dipolo}{8}{subsection.2.6}
+\contentsline {section}{\numberline {3}C\IeC {\'a}lculo de la resistencia del viento del conjunto de antenas.}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Antena discono.}{10}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Dipolo multibanda.}{10}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}M\IeC {\'a}stil.}{10}{subsection.3.3}
+\contentsline {section}{\numberline {4}Legislaci\IeC {\'o}n municipal aplicable - Comunidad de Madrid -.}{12}{section.4}
+\contentsline {section}{\numberline {5}R.D. 2623/86 cap\IeC {\'\i }tulo IV. Prescriciones t\IeC {\'e}cnicas de las antenas y sus elementos anejos.}{15}{section.5}
+\contentsline {section}{\numberline {6}Anexos}{18}{section.6}
+\contentsline {section}{\numberline {7}Memoria t\IeC {\'e}cnica solicitudes tipo 6.}{22}{section.7}
+\contentsline {section}{\numberline {8}Bibliograf\IeC {\'\i }a}{23}{section.8}
